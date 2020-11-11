@@ -1,2 +1,2 @@
-# ExperitestAzure
-Experitest tests on Azure
+# ExperitestProject
+Experitest tests
